@@ -1,4 +1,1 @@
-script_key="SjuGimDUDALltrSRztPBIICbrdadsaws";
-getgenv().beta        = true
-getgenv().eventScript = false
-loadstring(game:HttpGet("https://getsades.net/Module/LoaderReg.lua"))()
+game.Players.LocalPlayer:Kick("Sorry, the script is being disabled because it is being repaired by the script dev, for the reason that the CDID anti-cheat is bypassed, for the security of script users the script is disabled, thank you.")
