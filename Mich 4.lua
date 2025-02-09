@@ -1,4 +1,3 @@
+---Elite
 script_key="LShvrhotMeJKzAgBUpWnVAqKkBAiTBPx";
-getgenv().beta        = true
-getgenv().eventScript = false
-loadstring(game:HttpGet("https://getsades.net"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1b08e81b395303d93754322c7a6f2386.lua"))()
