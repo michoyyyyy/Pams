@@ -1,1 +1,4 @@
-game.Players.LocalPlayer:Kick("Sorry, the script is currently disabled because it is being repaired by the script dev, for the reason that the CDID anti-cheat has been patched, for the security of script users the script is disabled, thank you.")
+---Core
+script_key="SjuGimDUDALltrSRztPBIICbrdadsaws";
+getgenv().beta        = true
+loadstring(game:HttpGet("https://getsades.net/Module/LoaderReg.lua"))()
